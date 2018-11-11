@@ -29,7 +29,7 @@ SUBREDDIT = ('AFOL+bioniclelego+buildingblocks+customfigs+lego+Lego_Dimensions+l
              'legotechnic+legotrade+Minilego+mocs+MyOwnCreation+random_acts_of_lego+testingground4bots+legoleaks')
 KEYWORDS = ['ideas.lego.com/projects/']
 
-BOT_DISCLAIMER = ("\n\n---\n\n^LEGO ^Ideas ^Bot ^(v. {}) ^| "
+BOT_DISCLAIMER = ("\n\n---\n\n^LEGO ^Ideas ^Bot ^(v. {}) ^| [^Source](https://github.com/kungming2/LEGO_IDEAS_BOT) ^| "
                   "[^Bot ^Info/Support](https://www.reddit.com/message/compose/?to=kungming2&subject="
                   "About+LEGO+Ideas+Bot) ^| "
                   "^(If you like this project, **remember to vote for it!**)").format(VERSION_NUMBER)
